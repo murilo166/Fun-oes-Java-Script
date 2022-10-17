@@ -2,7 +2,7 @@
 Neste projeto proposto pelo meu professor. criei funçoes para resolver os problemas propostos
 
 
-## as funçoes criadas calculam a area e o diametro de um circulo,calculam o "suprimento vitalício" da sua comida favorita, e covertem graus Celcius em Fahrenheit e vice versa
+## as funçoes criadas calculam  a area e o diametro de um circulo, o "suprimento vitalício" da sua comida favorita, e covertem graus Celcius em Fahrenheit e vice versa. também convertem os anos caninos do seu pet em anos humanos.
 
 ## Linguagens Utilizadas
 para a criaçâo desse sistema utilizei Html e JavaScript
